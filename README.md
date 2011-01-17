@@ -1,4 +1,3 @@
-
 Introduction
 ============
 
@@ -30,9 +29,9 @@ API
 ===
 
 The SunnyTrail constructor takes three arguments:
-* apikey (required), your SunnyTrail API Key
-* host (optional, default=api.sunnytrail.com), SunnyTrail API host
-* use_ssl (optional, default=false), use HTTPS requests
+*  apikey (required), your SunnyTrail API Key
+*  host (optional, default=api.sunnytrail.com), SunnyTrail API host
+*  use_ssl (optional, default=false), use HTTPS requests
 
 
 Warning
